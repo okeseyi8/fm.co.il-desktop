@@ -244,7 +244,7 @@ p{
 /*************************************Footer-menu**********************************/
 
 .footer_main_div{
-	background:url(../images/footer_logo.jpg) no-repeat right center;
+	/* background:url(../images/footer_logo.jpg) no-repeat right center; */
 	height:63px;
 	margin: 15px 0px;}
 	
@@ -475,7 +475,7 @@ background-color: #4ca1c4;
 }
 
 .topten:hover{
-    background-color: #000000;
+    /* background-color: #000000; */
 }
 .sdmenu ul li{
 	display: flex;
