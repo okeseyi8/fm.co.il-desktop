@@ -8,9 +8,10 @@ body{
 	color:#393939;
 	margin:0px;}
 	
-h1, h2, h3, h4, h5, h6, p, ul, li, {
-	padding:0px;
-	margin:0px;}
+h1, h2, h3, h4, h5, h6, p, ul, li{
+	padding:0;
+	margin:0;
+}
 	
 .clear{
 	font-size:0px;
@@ -474,9 +475,7 @@ background-color: #4ca1c4;
 	position: relative;
 }
 
-.topten:hover{
-    /* background-color: #000000; */
-}
+
 .sdmenu ul li{
 	display: flex;
 	flex-direction: row;
